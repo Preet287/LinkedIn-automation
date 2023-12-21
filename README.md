@@ -26,6 +26,6 @@ python -m pip install naas_drivers
 
 Build a function to track new connections of competitor's decision makers. This involves understanding LinkedIn's API. Upon identifying a new connection, the script
 would analyze their profile data, specifically the 'About Us' section, job description, or recent posts. Based on the analysis, the script would generate a
-hyper-personalized connection request. The script would then send the connection request from your LinkedIn account with the generated personalized message
+hyper-personalized connection request. The script would then send the connection request from your LinkedIn account with the generated personalized message.
 
 
